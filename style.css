@@ -1,0 +1,25 @@
+#cenel{
+    border-radius: 30px;
+    height: 50px;
+    border: solid white 1px;
+}
+#bgkolor{
+    background-color: rgba(27,53,130,255);
+}
+#isi{
+    margin-top: 10px;
+}
+#vid{
+    border-radius: 10px;
+}
+#logo{
+    height: 30px;
+}#ytlogo{
+    height: 70px;
+    margin-left: -20px;
+}
+#logotele{
+    height: 35px;
+    margin-left: 5px;
+}
+
